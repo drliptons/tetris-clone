@@ -10,7 +10,7 @@
     <li>
       <a href="#about-the-project">About the Project</a>
     </li>
-    <li><a href="#features">Futures</a></li>
+    <li><a href="#features">Features</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
   </ol>
